@@ -1,0 +1,73 @@
+﻿Fecha y hora	Nombre de archivo	Error	Mensaje
+2013-08-07 10:14:21.225 -0500	frax.fp7	0	Conversión iniciada.
+2013-08-07 10:14:21.232 -0500	frax.fp7	0	Versión de producto: '11.0', versión de formato de archivo: '7'
+2013-08-07 10:14:21.232 -0500	frax.fmp12	0	Copiar archivo de origen en destino
+2013-08-07 10:14:21.308 -0500	frax.fmp12	0	Actualizando encabezados de archivos antiguos/creador/tipo de archivo
+2013-08-07 10:14:21.352 -0500	frax.fmp12	0	Actualizando catálogos con nueva codificación
+2013-08-07 10:14:21.359 -0500	frax.fmp12	0	Recuperando: catálogo de tablas
+2013-08-07 10:14:21.359 -0500	frax.fmp12	0	Reconstruyendo lista de órdenes catálogo de tablas: nombre 
+2013-08-07 10:14:21.360 -0500	frax.fmp12	0	Recuperando: catálogo de alias de tablas
+2013-08-07 10:14:21.360 -0500	frax.fmp12	0	Reconstruyendo lista de órdenes catálogo de alias de tablas: nombre 
+2013-08-07 10:14:21.364 -0500	frax.fmp12	0	Recuperando: catálogo de cuentas de usuario
+2013-08-07 10:14:21.364 -0500	frax.fmp12	0	Reconstruyendo lista de órdenes catálogo de cuentas de usuario: nombre 
+2013-08-07 10:14:21.365 -0500	frax.fmp12	0	Recuperando: cat. de conj. de privilegios
+2013-08-07 10:14:21.365 -0500	frax.fmp12	0	Reconstruyendo lista de órdenes cat. de conj. de privilegios: nombre 
+2013-08-07 10:14:21.366 -0500	frax.fmp12	0	Recuperando: catálogo de privilegios ampliados
+2013-08-07 10:14:21.366 -0500	frax.fmp12	0	Reconstruyendo lista de órdenes catálogo de privilegios ampliados: nombre 
+2013-08-07 10:14:21.367 -0500	frax.fmp12	0	Recuperando: catálogo de listas de valores
+2013-08-07 10:14:21.368 -0500	frax.fmp12	0	Reconstruyendo lista de órdenes catálogo de listas de valores: nombre 
+2013-08-07 10:14:21.368 -0500	frax.fmp12	0	Recuperando: catálogo de fuentes de datos
+2013-08-07 10:14:21.368 -0500	frax.fmp12	0	Reconstruyendo lista de órdenes catálogo de fuentes de datos: nombre 
+2013-08-07 10:14:21.369 -0500	frax.fmp12	0	Recuperando: catálogo de fuentes
+2013-08-07 10:14:21.369 -0500	frax.fmp12	0	Reconstruyendo lista de órdenes catálogo de fuentes: nombre 
+2013-08-07 10:14:21.371 -0500	frax.fmp12	0	Recuperando: catálogo de campos 'frax'
+2013-08-07 10:14:21.371 -0500	frax.fmp12	0	Reconstruyendo lista de órdenes catálogo de campos 'frax': nombre 
+2013-08-07 10:14:21.494 -0500	frax.fmp12	0	Índice de palabras reconstruidas para el campo 'BMI_BMD'. Existe(n) 2 elemento(s), diferencia de 0 con el índice anterior
+2013-08-07 10:14:21.674 -0500	frax.fmp12	0	Índice de valores reconstruidos para el campo 'SEXO'. Existe(n) 2 elemento(s), diferencia de 0 con el índice anterior
+2013-08-07 10:14:21.675 -0500	frax.fmp12	0	Índice de palabras reconstruidas para el campo 'SEXO'. Existe(n) 2 elemento(s), diferencia de 0 con el índice anterior
+2013-08-07 10:14:21.771 -0500	frax.fmp12	0	Índice de valores reconstruidos para el campo 'BMI'. Existe(n) 8 elemento(s), diferencia de 0 con el índice anterior
+2013-08-07 10:14:22.196 -0500	frax.fmp12	0	Índice de valores reconstruidos para el campo 'RIESGO texto'. Existe(n) 2766 elemento(s), diferencia de 0 con el índice anterior
+2013-08-07 10:14:22.197 -0500	frax.fmp12	0	Índice de palabras reconstruidas para el campo 'RIESGO texto'. Existe(n) 1980 elemento(s), diferencia de 0 con el índice anterior
+2013-08-07 10:14:22.370 -0500	frax.fmp12	0	Índice de valores reconstruidos para el campo 'CRFS'. Existe(n) 7 elemento(s), diferencia de 0 con el índice anterior
+2013-08-07 10:14:22.500 -0500	frax.fmp12	0	Índice de valores reconstruidos para el campo 'EDAD'. Existe(n) 9 elemento(s), diferencia de 0 con el índice anterior
+2013-08-07 10:14:22.610 -0500	frax.fmp12	0	Índice de valores reconstruidos para el campo 'OST_HIP'. Existe(n) 2 elemento(s), diferencia de 0 con el índice anterior
+2013-08-07 10:14:22.721 -0500	frax.fmp12	0	Índice de valores reconstruidos para el campo 'BMD'. Existe(n) 12 elemento(s), diferencia de 0 con el índice anterior
+2013-08-07 10:14:22.904 -0500	frax.fmp12	0	Índice de valores reconstruidos para el campo 'RAZA'. Existe(n) 1 elemento(s), diferencia de 0 con el índice anterior
+2013-08-07 10:14:22.905 -0500	frax.fmp12	0	Índice de palabras reconstruidas para el campo 'RAZA'. Existe(n) 1 elemento(s), diferencia de 0 con el índice anterior
+2013-08-07 10:14:23.075 -0500	frax.fmp12	0	Índice de valores reconstruidos para el campo 'riesgo desde'. Existe(n) 182 elemento(s), diferencia de 0 con el índice anterior
+2013-08-07 10:14:23.257 -0500	frax.fmp12	0	Índice de valores reconstruidos para el campo 'riesgo hasta'. Existe(n) 182 elemento(s), diferencia de 0 con el índice anterior
+2013-08-07 10:14:23.433 -0500	frax.fmp12	0	Índice de valores reconstruidos para el campo 'RIESGO'. Existe(n) 182 elemento(s), diferencia de 0 con el índice anterior
+2013-08-07 10:14:23.568 -0500	frax.fmp12	0	Índice de valores reconstruidos para el campo 'BMI_OR_BMD'. Existe(n) 19 elemento(s), diferencia de 0 con el índice anterior
+2013-08-07 10:14:23.569 -0500	frax.fmp12	0	Recuperando: catálogo de campos 'Cuestionario'
+2013-08-07 10:14:23.570 -0500	frax.fmp12	0	Reconstruyendo lista de órdenes catálogo de campos 'Cuestionario': nombre 
+2013-08-07 10:14:23.576 -0500	frax.fmp12	0	Índice de valores reconstruidos para el campo 'Tipo'. Existe(n) 1 elemento(s), diferencia de 0 con el índice anterior
+2013-08-07 10:14:23.576 -0500	frax.fmp12	0	Índice de palabras reconstruidas para el campo 'Tipo'. Existe(n) 1 elemento(s), diferencia de 0 con el índice anterior
+2013-08-07 10:14:23.577 -0500	frax.fmp12	0	Índice de valores reconstruidos para el campo 'IMC_DMO_Round'. Existe(n) 1 elemento(s), diferencia de 0 con el índice anterior
+2013-08-07 10:14:23.578 -0500	frax.fmp12	0	Recuperando: catálogo de presentaciones
+2013-08-07 10:14:23.578 -0500	frax.fmp12	0	Reconstruyendo lista de órdenes catálogo de presentaciones: nombre 
+2013-08-07 10:14:23.579 -0500	frax.fmp12	0	Recuperando: catálogo de guiones
+2013-08-07 10:14:23.579 -0500	frax.fmp12	0	Reconstruyendo lista de órdenes catálogo de guiones: nombre 
+2013-08-07 10:14:23.581 -0500	frax.fmp12	0	Recuperando: cat. de conj. de menús personaliz.
+2013-08-07 10:14:23.581 -0500	frax.fmp12	0	Reconstruyendo lista de órdenes cat. de conj. de menús personaliz.: nombre 
+2013-08-07 10:14:23.582 -0500	frax.fmp12	0	Recuperando: catálogo de menús personalizados
+2013-08-07 10:14:23.582 -0500	frax.fmp12	0	Reconstruyendo lista de órdenes catálogo de menús personalizados: nombre 
+2013-08-07 10:14:23.585 -0500	frax.fmp12	0	Actualizando sumas de verif. catálogo guión
+2013-08-07 10:14:23.585 -0500	frax.fmp12	0	Recuperando: catálogo de guiones
+2013-08-07 10:14:23.590 -0500	frax.fmp12	0	Reconstruyendo lista de órdenes catálogo de guiones: referencia rápida 
+2013-08-07 10:14:23.591 -0500	frax.fmp12	0	Reconstruyendo lista de órdenes catálogo de guiones: nombre 
+2013-08-07 10:14:23.592 -0500	frax.fmp12	0	Reconstruyendo lista de órdenes catálogo de guiones: personalizar 
+2013-08-07 10:14:23.593 -0500	frax.fmp12	0	Recuperando: guión 'IMPORTAR BMI' (1)
+2013-08-07 10:14:23.594 -0500	frax.fmp12	0	Recuperando: guión 'IMPORTAR BMD' (2)
+2013-08-07 10:14:23.594 -0500	frax.fmp12	0	Recuperando: guión 'Abrir' (3)
+2013-08-07 10:14:23.595 -0500	frax.fmp12	0	Recuperando: guión 'Calcular' (4)
+2013-08-07 10:14:23.596 -0500	frax.fmp12	0	Recuperando: guión 'edad' (5)
+2013-08-07 10:14:23.597 -0500	frax.fmp12	0	Recuperando: guión 'imprimir' (6)
+2013-08-07 10:14:23.597 -0500	frax.fmp12	0	Recuperando: guión 'Cerrar ventana' (7)
+2013-08-07 10:14:24.077 -0500	frax.fmp12	0	Se convirtieron 9 presentaciones.
+2013-08-07 10:14:24.078 -0500	frax.fmp12	0	Actualizando símbolos de present. antiguos
+2013-08-07 10:14:24.208 -0500	frax.fmp12	0	Actualizando referencias antiguas de archivo .FP7 a .FMP12
+2013-08-07 10:14:24.209 -0500	frax.fmp12	0	  Actualizando referencias .FP7 en Fuente de datos
+2013-08-07 10:14:24.212 -0500	frax.fmp12	0	  Actualizando referencias .FP7 en Guiones
+2013-08-07 10:14:24.246 -0500	frax.fmp12	0	  Actualizando referencias .FP7 en Botones
+2013-08-07 10:14:24.323 -0500	frax.fmp12	0	  actualizando opciones ortográficas
+2013-08-07 10:14:24.353 -0500	frax.fmp12	0	Conversión completa.
