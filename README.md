@@ -1,5 +1,11 @@
 zen-erp-filemaker
 ERP Libre para iPads | Basado en Filemaker
+
+FILEMAKER 12
+
+Username: admin
+Password: desarrollador
+
 =================
 
 1.  Módulo Punto de Venta
